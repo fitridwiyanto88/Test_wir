@@ -14,3 +14,12 @@ class Datas
 $belajar = new Datas();
 $belajar->the_name();
 ?>
+
+outputnya :
+Nama Saya FitriDwiyanto
+Kenapa Harus menggunakan OOP?
+Mengacu pada kelebihan dari OOP itu sendiri yaitu :
+-Koding lebih tersetruktur.
+-Lebih mudah di lacak jika terjadi Error.
+-Reusable, alias bisa digunakan kembali, baik pada object yang lain atau projek lain yang
+memiliki kemiripan.
