@@ -1,0 +1,5 @@
+Injeksi ketergantungan ialah membuat kode lebih mudah untuk diuji daripada kode dengan
+dependensi hardcoded.
+Tetapi dengan injeksi ketergantungan
+ Logika untuk membuat objek Pengaturan ada di tempat lain
+ Sangat mudah untuk menggunakan berbagai jenis objek Pengaturan
